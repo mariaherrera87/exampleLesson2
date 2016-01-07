@@ -17,4 +17,4 @@ r2 <- r
 r2[] <- (1:ncell(r2)) / 10
 # Performs the calculation
 r3 <- minusRaster(r, r2) 
-plot(r3)
+
